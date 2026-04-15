@@ -7,7 +7,7 @@
 const DATA = {
   name: 'Nguyễn Hoàng Anh',
   title: 'Full-stack Developer',
-  tagline: 'Xây dựng web nhanh, đẹp và có chiều sâu.\nĐam mê UX tốt và code sạch.',
+  tagline: 'Mong muốn xây dựng web, phân tích yêu cầu, thiết kế hệ thống đến phát triển và triển khai sản phẩm.\nĐam mê UX/UI tốt và code sạch.',
   location: 'Ho Chi Minh City, Vietnam',
   email: 'cualonghean2004@gmail.com',
   github: 'https://github.com/Hoanganh1889',   
@@ -15,9 +15,9 @@ const DATA = {
   facebook: 'https://www.facebook.com/hank.1801', 
 
   stats: [
-    { num: '2+', label: 'Years Experience' },
-    { num: '12+', label: 'Projects Shipped' },
-    { num: '∞', label: 'Coffee Cups' },
+    { num: '+84', label: '0586294633' },
+    { num: 'Education', label: 'Đại học Công Nghệ Thành Phố Hồ Chí Minh (Hutech)' },
+    { num: '∞', label: 'Thu Duc, Ho Chi Minh City' },
   ],
 
   skills: [
